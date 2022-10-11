@@ -1,4 +1,0 @@
-#!/bin/bash
-vi 0-hello_world
-echo "Hello, World"
-

@@ -1,3 +1,0 @@
-#!/bin/bash
-vi 2-hellofile
-cat /etc/passwd
